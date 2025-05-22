@@ -8,5 +8,12 @@
       <jdbc-url>jdbc:postgresql://localhost:5432/aggamedb</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="aggamedb@13.202.68.253" uuid="54f9cc09-57d4-4aa0-9412-da5c29a031a3">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://13.202.68.253:5432/aggamedb</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </project>
